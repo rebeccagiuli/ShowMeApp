@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B20803</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="white">#FCFCFC</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FFC300</color>
+    <color name="red">#B20803</color>
+
+
+    <!-- API KEY NEEDED COLORS -->
+    <color name='viewBG'>#F1F5F8</color>
+    <color name='movie_title'>#4C4C4C</color>
+
+</resources>
